@@ -2,4 +2,4 @@ nltk
 pandas
 streamlit 
 scikit-learn
-imblearn-learn
+imbalanced-learn
